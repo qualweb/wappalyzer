@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.3] - 26/01/2022
+
+### Updated
+
+- wappalyzer to version 6.9.1 to prevent vunerabilities in package node-fetch
+
 ## [0.3.2] - 10/12/2021
 
 ### Updated
